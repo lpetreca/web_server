@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
     - apache
 dependencies:
-  - lpetreca.conf_base
+ # - lpetreca.conf_base
